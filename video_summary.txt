@@ -1,0 +1,27 @@
+=== Resumo da Análise de Vídeo ===
+Vídeo analisado: Unlocking Facial Recognition_ Diverse Activities Analysis.mp4
+Total de frames processados: 3326
+Número de anomalias detectadas: 1430
+
+Distribuição de emoções:
+  Triste: 1586
+  Neutro: 1282
+  Assustado: 957
+  Feliz: 711
+  Bravo: 408
+  Surpreso: 179
+  Com nojo: 1
+
+Atividades detectadas:
+  sentado: 559
+  gesticulando com a mão direita: 356
+  gesticulando com a mão esquerda: 324
+  bocejando: 147
+  escrevendo: 121
+  apertando as mãos: 115
+  acenando com a mão esquerda: 97
+  acenando com a mão direita: 52
+  dançando: 8
+
+Resumo em linguagem natural:
+Durante o vídeo foram detectadas as seguintes emoções: Triste (1586), Neutro (1282), Assustado (957), Feliz (711), Bravo (408) As atividades mais comuns foram: sentado (559), gesticulando (356), bocejando (147), escrevendo (121)
