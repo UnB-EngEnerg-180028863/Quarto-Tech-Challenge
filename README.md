@@ -48,4 +48,4 @@ A aplicação processa o vídeo frame a frame, identifica as faces, extrai emoç
 🔗 Links para Avaliação
 🎥 Vídeo de Demonstração: YouTube - Link Aqui
 
-💻 Repositório no GitHub: GitHub - Link Aqui
+💻 Repositório no GitHub: GitHub - [Link Aqui](https://github.com/UnB-EngEnerg-180028863/Quarto-Tech-Challenge/)
