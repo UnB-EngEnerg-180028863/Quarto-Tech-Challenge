@@ -36,9 +36,13 @@ A aplicação processa o vídeo frame a frame, identifica as faces, extrai emoç
 ## 📁 Estrutura do Projeto
 
 ├── main.py # Arquivo principal com a classe VideoAnalyzer
+
 ├── output_video.mp4 # Vídeo com as anotações geradas
+
 ├── video_summary.txt # Relatório com estatísticas e resumo em linguagem natural
+
 ├── Unlocking Facial Recognition_ Diverse Activities Analysis.mp4 # Vídeo de entrada
+
 └── README.md # Este arquivo
 
 🔗 Links para Avaliação
