@@ -35,13 +35,13 @@ A aplicação processa o vídeo frame a frame, identifica as faces, extrai emoç
 
 ## 📁 Estrutura do Projeto
 
-├── main.py # Arquivo principal com a classe VideoAnalyzer
+├── Litran_Tech_Challenge_4.ipynb # Arquivo principal com a classe VideoAnalyzer
 
-├── output_video.mp4 # Vídeo com as anotações geradas
+├── output_video.mp4 # Vídeo com as anotações geradas (disponível como resultado do codigo)
 
-├── video_summary.txt # Relatório com estatísticas e resumo em linguagem natural
+├── video_summary.txt # Relatório com estatísticas e resumo em linguagem natural (disponível como resultado do codigo)
 
-├── Unlocking Facial Recognition_ Diverse Activities Analysis.mp4 # Vídeo de entrada
+├── Unlocking Facial Recognition_ Diverse Activities Analysis.mp4 # Vídeo de entrada (disponível na FIAP)
 
 └── README.md # Este arquivo
 
